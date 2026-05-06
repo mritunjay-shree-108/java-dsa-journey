@@ -8,7 +8,7 @@ Traverse the array and check each element.
 If found, return maximum number.
 */
 
-public class largestNumber {
+public class LargestNumber {
     // function to find Largest number in array
     public static int largest(int arr[]){
         int max = Integer.MIN_VALUE;                //-inifinity
