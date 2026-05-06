@@ -11,7 +11,7 @@ Return the maximum sum.
 
 import java.util.*;
 
-public class prefixSum {
+public class PrefixSum {
 
     // function to find the maximum sum using prefix sum approah
     public static int preSum(int arr[]){
