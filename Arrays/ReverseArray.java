@@ -9,7 +9,7 @@ Traverse the half of array and swap the first elements with last without creatin
 
 
 
-public class reverseArray {
+public class ReverseArray {
 
     // function to reverse the array
     public static void reverse(int arr[]){
