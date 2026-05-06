@@ -1,7 +1,7 @@
 /*
 Problem: Finding max sum using Prefix Sum approach
 Time Complexity: O(n^2)
-
+Space Complexity : O(1)
 
 Approach:
 Traverse the array and check each element.
