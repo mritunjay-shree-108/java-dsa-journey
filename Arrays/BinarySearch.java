@@ -12,7 +12,7 @@ If found, return index.
 
 
 
-public class binarySearch {
+public class BinarySearch {
 
     // binary Search function
     public static int binSearch(int arr[], int target){
