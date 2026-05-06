@@ -1,6 +1,7 @@
 /*
 Problem: Finding maximum sum of the subArray using KADANE's Algorithm
 Time Complexity: O(n)
+Space Complexity : O(1)
 
 Approach:
 Traverse the array and calculate sum , if the sum is negative make the currentSum = 0 , and do the further calculation.
