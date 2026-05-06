@@ -1,14 +1,21 @@
 /*
-Problem: Buy & Sell Stock
+Problem: Best Time to Buy and Sell Stock
+
+Category: Arrays
+
+Approach:
+Track minimum price so far and calculate profit at each step.
+
 Time Complexity: O(n)
 Space Complexity: O(1)
 
-Approach:
-Update the maximum profit by subtracting the minimum price seen so far from the current price as you iterate through the list once.
+Example:
+Input: [7,1,5,3,6,4]
+Output: 5
 */
 
 
-public class buySell {
+public class BuySellStock {
 
     // function to calculate the maximum profit 
     public static int maxProfit(int price[]){
