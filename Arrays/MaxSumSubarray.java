@@ -11,7 +11,7 @@ Return the maximum sum.
 
 import java.util.*;
 
-public class maxSumSubarray {
+public class MaxSumSubarray {
 
     // function to calculate max sum
     public static int maxSum(int arr[]){
