@@ -11,7 +11,7 @@ This is the optimised approach
 
 import java.util.*; 
 
-public class kadanesSum {
+public class KadanesAlgorithm {
 
     // function to calculate maximum sum using KADANE's approach
     public static int Kadane(int arr[]){
