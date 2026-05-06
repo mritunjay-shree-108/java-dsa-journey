@@ -5,7 +5,7 @@ Space Complexity: O(1)
 
 Approach:
 Traverse the array and check each element.
-If found, return index.
+If found the target, return index.
 */
 
 import java.util.*;
