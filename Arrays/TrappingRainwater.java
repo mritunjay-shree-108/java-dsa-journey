@@ -12,7 +12,7 @@ Return the trapped water.
 
 import java.util.*;
 
-public class trappingRainwater {
+public class TrappingRainwater {
 
     // function to calculate trapped water
     public static int trappedWater(int height[]){
